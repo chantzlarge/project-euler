@@ -6,4 +6,4 @@
 //
 // Find the sum of all the multiples of 3 or 5 below 1000.
 //
-module.exports = (multiples, limit) => Array(limit).fill().map((curr, idx) => idx).filter((value) => multiples.find(multiple => value % multiple === 0)).reduce((acc, cur) => acc + cur)
+module.exports = (multiples, limit) => Array(limit).fill().map((cur, idx) => idx).filter(val => multiples.find(multiple => val % multiple === 0)).reduce((acc, cur) => acc + cur)
