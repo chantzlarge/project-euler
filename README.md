@@ -1,8 +1,4 @@
 # @chantzlarge/project-euler
-
----
-
-# (organization)/(project)
  
 ---
  
