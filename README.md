@@ -8,7 +8,7 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 
 ## Languages
 
-<!-- - [go]() -->
+- [go](https://github.com/chantzlarge/project-euler/tree/go)
 
 ## Problems
 
