@@ -1,4 +1,4 @@
-# @chantzlarge/project-euler
+# [@chantzlarge](https://github.com/chantzlarge)/[project-euler](https://github.com/chantzlarge/project-euler)
 
 ---
 
