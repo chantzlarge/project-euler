@@ -8,10 +8,10 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 
 ## Problems
 
-| | [go](https://github.com/chantzlarge/project-euler/tree/go) |
+| | go |
 | --- | --- |
-| [Multiples of 3 and 5](https://github.com/chantzlarge/project-euler/wiki/Multiples-of-3-and-5) | ✔ |
-| Even Fibonacci numbers | |
+| Multiples of 3 and 5 | ✔ |
+| Even Fibonacci Numbers | |
 | Largest prime factor | |
 | Largest palindrome product | |
 | Smallest multiple | |
