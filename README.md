@@ -129,7 +129,7 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 | Exploring Pascal's triangle | |
 | Searching for a maximum-sum subsequence | |
 | Searching a triangular array for a sub-triangle having minimum-sum | |
-| 151	Paper sheets of standard sizes: an expected-value problem | |
+| Paper sheets of standard sizes: an expected-value problem | |
 | Writing 1/2 as a sum of inverse squares | |
 | Investigating Gaussian Integers | |
 | Exploring Pascal's pyramid | |
@@ -179,7 +179,7 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 | Ambiguous Numbers | |
 | Iterative Circle Packing | |
 | Find the 200th prime-proof sqube containing the contiguous sub-string "200" | |
-| 201	Subsets with a unique sum | |
+| Subsets with a unique sum | |
 | Laserbeam | |
 | Squarefree Binomial Coefficients | |
 | Generalised Hamming Numbers | |
@@ -654,26 +654,4 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 
 ## License
 
-```text
-MIT License
-
-Copyright © 2019 Chantz Large
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+See `LICENSE.txt`
