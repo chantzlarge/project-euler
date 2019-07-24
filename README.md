@@ -11,7 +11,7 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 | | go |
 | --- | --- |
 | Multiples of 3 and 5 | ✔ |
-| Even Fibonacci Numbers | |
+| Even Fibonacci Numbers | ✔ |
 | Largest prime factor | |
 | Largest palindrome product | |
 | Smallest multiple | |
