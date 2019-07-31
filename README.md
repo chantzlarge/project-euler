@@ -13,7 +13,7 @@ Source: [https://en.wikipedia.org/wiki/Project_Euler](https://en.wikipedia.org/w
 | Multiples of 3 and 5 | ✔ |
 | Even Fibonacci Numbers | ✔ |
 | Largest Prime Factor | ✔ |
-| Largest palindrome product | |
+| Largest Palindrome Product | |
 | Smallest multiple | |
 | Sum square difference | |
 | st prime | |

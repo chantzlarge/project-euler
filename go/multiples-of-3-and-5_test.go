@@ -3,10 +3,10 @@ package euler
 import "testing"
 
 func TestMultiplesOf3And5(t *testing.T) {
-	r := MultiplesOf3And5()
+	g := MultiplesOf3And5(1000)
 	e := 233168
-	if r != e {
-		t.Errorf("expected:\t%v\nfound:\t%v", e, r)
+	if g != e {
+		t.Errorf("expected %v, got %v", e, g)
 	}
-	t.Logf("got:\t%v", r)
+	t.Logf("got:\t%v", g)
 }

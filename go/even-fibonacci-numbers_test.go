@@ -3,10 +3,10 @@ package euler
 import "testing"
 
 func TestEvenFibonacciNumbers(t *testing.T) {
-	got := EvenFibonacciNumbers()
-	expected := 4613732
-	if got != expected {
-		t.Errorf("expected %v, got %v", expected, got)
+	g := EvenFibonacciNumbers()
+	e := 4613732
+	if g != e {
+		t.Errorf("expected %v, got %v", e, g)
 	}
-	t.Logf("got:\t%v", got)
+	t.Logf("got:\t%v", g)
 }

@@ -3,10 +3,10 @@ package euler
 import "testing"
 
 func TestLargestPrimeFactor(t *testing.T) {
-	expected := 6857
-	got := LargestPrimeFactor()
-	if got != 6857 {
-		t.Errorf("expected %v, got %v", expected, got)
+	e := 6857
+	g := LargestPrimeFactor(600851475143)
+	if g != e {
+		t.Errorf("expected %v, got %v", e, g)
 	}
-	t.Logf("got:\t%v", got)
+	t.Logf("got:\t%v", g)
 }
